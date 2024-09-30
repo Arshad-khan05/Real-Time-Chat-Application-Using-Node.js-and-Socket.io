@@ -14,7 +14,7 @@ Wassup is a real-time chat application developed using Node.js and Socket.IO. It
 ## Requirements
 - Node.js 
 - Express 
-- Socket.io 
+- Socket.IO 
 
 ## How to Run
 
