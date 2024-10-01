@@ -10,6 +10,8 @@ Wassup is a real-time chat application developed using Node.js and Socket.IO. It
 - Intuitive UI: Simple and user-friendly layout for easy navigation and message sending.
 - Supports multiple users: Allows several users to connect and chat simultaneously.
 
+## Results
+
 <table>
     <tr>
         <td><img src="Output/Image01.png" alt="Example Image 1" style="width: 100%;"></td>
